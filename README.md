@@ -40,13 +40,13 @@ Welcome to my GitHub! I'm *Aaliyan Iftikhar*, an enthusiastic Android Developer 
 
 ### 📱 My Portfolio of Android Applications  
 
-- *Expense Tracker*  
-  - *Description:* A robust app to manage and track expenses with features like categorization, reporting, and budget setting.  
-  - *Tech Stack:* Kotlin, MVVM, Room Database, Coroutines  
+- *TuneGenius*  
+  - *Description:*Successfully developed an Android application utilizing Facebook's MusicGen to transform textual descriptions into captivating music compositions.  
+  - *Tech Stack:* Kotlin, MVVM, Firebase, Retrofit, Coroutines  
 
-- *Weather Companion*  
-  - *Description:* A weather forecasting app using OpenWeather API, with dynamic UI updates based on real-time weather conditions.  
-  - *Tech Stack:* Java, Retrofit, LiveData  
+- *Xyron Academy*  
+  - *Description:* Digital academy to fetch notes, past pappers, get updates from populat teachers etc.  
+  - *Tech Stack:* Java, kotlin, Firebase, Glide, MVVM, Coroutines
 
 - *E-Commerce App*  
   - *Description:* A seamless shopping experience with features like product listing, cart management, and payment integration.  
