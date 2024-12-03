@@ -59,7 +59,8 @@ Welcome to my GitHub! I'm *Aaliyan Iftikhar*, an enthusiastic Android Developer 
 
 ## 📫 Let's Connect!  
 
-- *LinkedIn:* [Connect with me]([https://www.linkedin.com/in/aaliyan-iftikhar/](https://www.linkedin.com/in/aaliyan-iftikhar-143362226/?trk=opento_sprofile_topcard&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNT9Pb%2FYzR8KuQtcP6cXepg%3D%3D))  
+- *LinkedIn:* [Connect with me](https://www.linkedin.com/in/aaliyan-iftikhar-143362226/?trk=opento_sprofile_topcard&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNT9Pb%2FYzR8KuQtcP6cXepg%3D%3D)
+
 - *Email:* [aaliyanchaudhary8@gmail.com](mailto:aaliyanchaudhary8@gmail.com)  
 
 Thank you for visiting my GitHub profile. Let's build amazing Android applications together! 🚀  
