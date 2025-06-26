@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm *Aaliyan Iftikhar*, an enthusiastic Android Developer 
 ![MVVM Architecture](https://img.shields.io/badge/MVVM_Architecture-000000?style=for-the-badge&logo=m&logoColor=white)  
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
-![Dagger](https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Dagger](https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge&logo=google&logoColor=white)  
 ![Data Binding](https://img.shields.io/badge/Data_Binding-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
 
