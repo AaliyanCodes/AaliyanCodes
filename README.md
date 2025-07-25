@@ -1,7 +1,7 @@
 # 🌟 Aaliyan Iftikhar - Android Developer  
 
 Welcome to my GitHub! I'm *Aaliyan Iftikhar*, an enthusiastic Android Developer specializing in building high-performance mobile applications using Kotlin and Java. With a strong passion for crafting intuitive user interfaces and writing clean, efficient code, I aim to deliver top-quality Android applications that solve real-world problems.  
-
+,
 --
 
 ## 🚀 Skills & Technologies  
